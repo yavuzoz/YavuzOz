@@ -10,7 +10,7 @@ You may find some projects on my repos, feel free to contribute or using them. K
 
 ✨ Languages: Javascript, Python
 
-✨ Front-End Development:React, React Native,Javascript, HTML, CSS, JQuery
+✨ Front-End Development:React, React Native,Javascript, HTML, CSS
 
 ✨ Back-End Development: Node.js, MongoDB, Express, Django, MySQL
 <!--
