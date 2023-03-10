@@ -12,7 +12,7 @@ You may find some projects on my repos, feel free to contribute or using them. K
 
 ✨ Front-End Development:React, React Native,Javascript, HTML, CSS
 
-✨ Back-End Development: MySQL, SQL , NodeJs
+✨ Back-End Development: MySQL, NodeJs
 <!--
 **yavuzoz/yavuzoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
