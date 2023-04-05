@@ -10,7 +10,7 @@ You may find some projects on my repos, feel free to contribute or using them. K
 
 💬💬💬About
 
-✨ Languages: Javascript, Python , JAVA
+✨ Languages: Javascript, Python , JAVA, C#
 
 ✨ Front-End Development:React, React Native,Javascript, HTML, CSS
 
