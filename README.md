@@ -10,11 +10,13 @@ You may find some projects on my repos, feel free to contribute or using them. K
 
 💬💬💬About
 
-✨ Languages: Javascript, Python , JAVA, C#
+✨ Languages: Javascript, Python , C#
 
 ✨ Front-End Development:React, React Native,Javascript, HTML, CSS, Bootstrap
 
 ✨ Back-End Development: SQL, NodeJs
+
+✨ Linux
 <!--
 **yavuzoz/yavuzoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
