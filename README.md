@@ -12,7 +12,7 @@ You may find some projects on my repos, feel free to contribute or using them. K
 
 ✨ Languages: Javascript, Python , C#
 
-✨ Front-End Development: React, React Native,Javascript, HTML, CSS, Bootstrap
+✨ Front-End Development: React, React Native, Javascript, HTML, CSS, Bootstrap
 
 ✨ Back-End Development: SQL, MySql, Express Js, NodeJs
 
