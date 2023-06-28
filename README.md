@@ -1,6 +1,6 @@
 ### Hi there 👋
 #I'm Yavuz..
-🚀 I'm a full stack developer, interested in writing new codes, dreaming new designs and creating new web sites but my speciality is front-end developing.
+🚀 I'm a full stack developer, interested in writing new codes, dreaming new designs and creating new web sites.
 
 I am student at "Bern Gibb Informatik & Telekommunikation (TSBE)"
 
