@@ -18,9 +18,6 @@ You may find some projects on my repos, feel free to contribute or using them. K
 
 ✨ Linux
 
-✨ My Linkedln Account --> https://www.linkedin.com/in/yavuz-%C3%B6zbay-01739b1b1/
-
-
 <!--
 **yavuzoz/yavuzoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
