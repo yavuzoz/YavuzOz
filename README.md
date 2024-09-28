@@ -10,9 +10,11 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yavuzoz&" alt="yavuzoz" /></p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yavuzoz&label=Profile%20views&color=0e75b6&style=flat" alt="yavuzoz" /> </p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/yavuz-özbay-01739b1b1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yavuz-özbay-01739b1b1" height="20" width="30" /></a>
 </p>
 
-Thanks for visiting! Feel free to check out my projects..
+<p>Thanks for visiting! Feel free to check out my projects..</p>
