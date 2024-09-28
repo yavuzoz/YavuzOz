@@ -2,7 +2,7 @@
 <h2>I'm Yavuz Özbay </h2>
 <h3>I'm a full stack developer, interested in writing new codes, dreaming new designs and creating new web sites.</h3>
 
-- I am student at [Bern Gibb HF Informatik & Telekommunikation (TSBE)](https://gibb.ch/weiterbildung/informatik)
+I am student at [Bern Gibb HF Informatik & Telekommunikation (TSBE)](https://gibb.ch/weiterbildung/informatik)
 
 <h3 align="left">Languages and Tools:</h3>
 <p>---------------------------------------------------------------------------------------------------------------</p>
