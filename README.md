@@ -53,8 +53,10 @@ I am student at [Bern Gibb HF Informatik & Telekommunikation (TSBE)](https://gib
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   </a>
 </p>
+
 <p>---------------------------------------------------------------------------------------------------------------</p>
 <h3 align="left">GitHub Stats</h3>
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yavuzoz&show_icons=true&locale=en&layout=compact" alt="yavuzoz" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yavuzoz&" alt="yavuzoz" /></p>
