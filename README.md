@@ -3,16 +3,50 @@ I'm Yavuz Özbay
 I'm a full-stack developer, interested in writing new codes, dreaming new designs, and creating new websites.  
 I am a student at Bern Gibb HF Informatik & Telekommunikation (TSBE) 🌱  
 
-✨ Languages and Tools:  
+You may find some projects on my repos, feel free to contribute or use them. Knowledge is power and sharing knowledge is the best thing for me ⚡⚡⚡  
+
+✨ Languages:  
 ---------------------------------------------------------------------------------------------------------------  
-- HTML5, CSS3, JavaScript  
-- React, Bootstrap  
-- Express, Node.js  
-- MySQL, MSSQL  
-- C#, .NET  
-- Python  
-- Docker, Kubernetes  
+- JavaScript
+- C# 
+- Python   
+
+✨ Mobile Development:  
+---------------------------------------------------------------------------------------------------------------  
+- React Native  
+
+✨ Front-End Development:  
+---------------------------------------------------------------------------------------------------------------  
+- HTML  
+- CSS  
+- JavaScript  
+- Bootstrap  
+- Material.UI  
+- React  
+- APIs 
+  
+✨ Desktop Application Development:  
+---------------------------------------------------------------------------------------------------------------  
+- .NET (WPF)  
+
+✨ Back-End Development:  
+---------------------------------------------------------------------------------------------------------------  
+- Node.js  
+- Express.js  
+- .NET  
+- SQL (MySQL, MSSQL)
+  
+✨ DevOps & Systems:  
+---------------------------------------------------------------------------------------------------------------  
 - Linux  
+- Docker  
+- Kubernetes  
+
+✨ Version Control & Project Management:  
+---------------------------------------------------------------------------------------------------------------  
+- Git & GitHub  
+- Jira  
+- SCRUM & Agile Methodologies  
 
 ---------------------------------------------------------------------------------------------------------------  
 
@@ -27,20 +61,4 @@ I am a student at Bern Gibb HF Informatik & Telekommunikation (TSBE) 🌱
 ---------------------------------------------------------------------------------------------------------------  
 
 🌱🌱🌱 To understand the future, I learn programming. ⚡⚡⚡  
-
-Thanks for visiting! Feel free to check out my projects ⚡
-
-
-<p>---------------------------------------------------------------------------------------------------------------</p>
-<h3 align="left">GitHub Stats</h3>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yavuzoz&show_icons=true&locale=en&layout=compact" alt="yavuzoz" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yavuzoz&" alt="yavuzoz" /></p>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=yavuzoz&label=Profile%20views&color=0e75b6&style=flat" alt="yavuzoz" />
-</p>
-
-<p>---------------------------------------------------------------------------------------------------------------</p>
 
