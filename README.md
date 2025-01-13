@@ -35,7 +35,7 @@ You may find some projects on my repos, feel free to contribute or use them. Kno
 - Express.js  
 - .NET
 - PHP
-- SQL (MySQL, MSSQL)
+- SQL(MySQL, MSSQL)
   
 ✨ DevOps & Systems:  
 ---------------------------------------------------------------------------------------------------------------  
