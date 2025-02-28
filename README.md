@@ -1,54 +1,55 @@
-Hi 👋  
-I'm Yavuz Özbay  
-I'm a full-stack developer, interested in writing new codes, dreaming new designs, and creating new websites.  
-I am a student at Bern Gibb HF Informatik & Telekommunikation (TSBE) 🌱  
 
-You may find some projects on my repos, feel free to contribute or use them. Knowledge is power and sharing knowledge is the best thing for me ⚡⚡⚡  
+Hi 👋
+I'm Yavuz Özbay
+I'm a full-stack developer, interested in writing new codes, dreaming new designs, and creating new websites.
+I am a student at Bern Gibb HF Informatik & Telekommunikation (TSBE) 🌱
 
-✨ Languages:  
----------------------------------------------------------------------------------------------------------------  
+You may find some projects on my repos, feel free to contribute or use them. Knowledge is power and sharing knowledge is the best thing for me ⚡⚡⚡
+
+✨ Languages:
 - JavaScript
-- C# 
-- Python   
+- C#
+- Python
 
-✨ Mobile Development:  
----------------------------------------------------------------------------------------------------------------  
-- React Native  
+✨ Mobile Development:
+- React Native
 
-✨ Front-End Development:  
----------------------------------------------------------------------------------------------------------------  
-- HTML  
-- CSS  
-- JavaScript  
-- Bootstrap  
+✨ Front-End Development:
+- HTML
+- CSS
+- JavaScript
+- Bootstrap
 - Material.UI
 - Vue3 Js
-- React  
-- APIs 
-  
-✨ Desktop Application Development:  
----------------------------------------------------------------------------------------------------------------  
-- .NET (WPF)  
+- React
+- APIs
 
-✨ Back-End Development:  
----------------------------------------------------------------------------------------------------------------  
-- Node.js  
-- Express.js  
+✨ Desktop Application Development:
+- .NET (WPF)
+
+✨ Back-End Development:
+- Node.js
+- Express.js
 - .NET Core
 - PHP
 - SQL(MySQL, MSSQL)
-  
-✨ DevOps & Systems:  
----------------------------------------------------------------------------------------------------------------  
-- Linux  
-- Docker  
-- Kubernetes  
 
-✨ Version Control & Project Management:  
----------------------------------------------------------------------------------------------------------------  
-- Git & GitHub  
-- Jira  
-- SCRUM & Agile Methodologies  
+✨ DevOps & Systems:
+- Linux
+- Docker
+- Kubernetes
+
+✨ Version Control & Project Management:
+- Git & GitHub
+- Jira
+- SCRUM & Agile Methodologies
+
+✨ System Techniques:
+- Cisco
+- Networking
+
+✨ Cyber Security:
+- Penetration Testing
 
 ---------------------------------------------------------------------------------------------------------------  
 
