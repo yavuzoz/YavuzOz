@@ -21,7 +21,8 @@ You may find some projects on my repos, feel free to contribute or use them. Kno
 - CSS  
 - JavaScript  
 - Bootstrap  
-- Material.UI  
+- Material.UI
+- Vue3 Js
 - React  
 - APIs 
   
@@ -33,7 +34,7 @@ You may find some projects on my repos, feel free to contribute or use them. Kno
 ---------------------------------------------------------------------------------------------------------------  
 - Node.js  
 - Express.js  
-- .NET
+- .NET Core
 - PHP
 - SQL(MySQL, MSSQL)
   
